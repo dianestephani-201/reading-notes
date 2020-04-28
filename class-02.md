@@ -40,5 +40,4 @@ br / element, and horizontal breaks are created with a hr / element.
 - Operators allow programmers to create a single value from one or more values. 
 - A + sign represents a string operator, used to join strings on either side of it.
 
-### Chapter 4: Decisions and Loops
-- 
+
