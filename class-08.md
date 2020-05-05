@@ -11,4 +11,4 @@
 - Overlapping elements/z-index: Z-index value is a number. An element with 10 will appear over the top of one with 5. 
 - Stacking context: blocks have been stacked on top of each other on a z-axis. Equivalent of "bringing to the front" or "sending to the back."
 - Float: can take an element in normal flow and place it as far to the left or right of the containing element as possible.
-- 
+- Different screen sizes mean designs need to work on a range of different sized screens.
