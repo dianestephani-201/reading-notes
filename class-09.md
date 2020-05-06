@@ -40,4 +40,3 @@
 DOMNodeRemovedFromDocument.
 - How events trigger JS code: **Event handling:** Select the element node(s) you want the script to respond to. Indicate which event on the selected nodes will trigger the response. State the code you want to run when the event occurs. 
 - Event handling is used to provide feedback to users filling in a form: select element, specify event, call code.
-- 
