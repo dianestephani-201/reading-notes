@@ -19,6 +19,20 @@ Notes and reading assignments for Code Fellows.
 1. [Read 15](https://dianestephani.github.io/reading-notes/class-15)
 
 ### 301
-1. TKTKTK
-1. TKTKTK
-1. TKTKTK
+1. [Read 01](https://github.com/dianestephani/reading-notes/blob/master/301.01.md)
+1. [Read 02](https://github.com/dianestephani/reading-notes/blob/master/301.01.md)
+1. [Read 03](https://github.com/dianestephani/reading-notes/blob/master/301.03.md)
+1. [Read 06](https://github.com/dianestephani/reading-notes/blob/master/301.06.md)
+1. [Read 07](https://github.com/dianestephani/reading-notes/blob/master/301.07.md)
+1. [Read 09](https://github.com/dianestephani/reading-notes/blob/master/301.09.md)
+1. [Read 10](https://github.com/dianestephani/reading-notes/blob/master/301.10.md)
+1. [Read 11](https://github.com/dianestephani/reading-notes/blob/master/301.11.md)
+1. [Read 12](https://github.com/dianestephani/reading-notes/blob/master/301.12.md)
+1. [Read 13](https://github.com/dianestephani/reading-notes/blob/master/301.13.md)
+1. [Read 14](https://github.com/dianestephani/reading-notes/blob/master/301.14.md)
+1. [Read 15](https://github.com/dianestephani/reading-notes/blob/master/301.15.md)
+
+### 401
+1. [Unit Tests & Documentation](https://github.com/dianestephani/reading-notes/blob/master/401.01.md)
+1. System.IO
+1. Classes & Objects
