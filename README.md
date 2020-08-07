@@ -32,8 +32,11 @@ Notes and reading assignments for Code Fellows.
 1. [Read 14](https://github.com/dianestephani/reading-notes/blob/master/301.14.md)
 1. [Read 15](https://github.com/dianestephani/reading-notes/blob/master/301.15.md)
 
-### 401
+### 401 C#
 1. [Unit Tests & Documentation](https://github.com/dianestephani/reading-notes/blob/master/401.01.md)
 1. [System.IO](https://github.com/dianestephani/reading-notes/commit/68552da64e33ccbb3b572037b7e519012519d861)
 1. [Classes & Objects](https://github.com/dianestephani/reading-notes/blob/master/401.03.md)
 1. [Linked Lists](https://github.com/dianestephani/reading-notes/blob/master/401.04.md)
+
+### 401 JavaScript
+1. Engineering Topics
