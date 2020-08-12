@@ -39,4 +39,5 @@ Notes and reading assignments for Code Fellows.
 1. [Linked Lists](https://github.com/dianestephani/reading-notes/blob/master/401.04.md)
 
 ### 401 JavaScript
-1. [Engineering Topics](https://github.com/dianestephani/reading-notes/blob/master/401JS.01.md)
+- [Engineering Topics](https://github.com/dianestephani/reading-notes/blob/master/401JS.01.md)
+- [Class 01](https://github.com/dianestephani/reading-notes/blob/master/401JS.01.md)
