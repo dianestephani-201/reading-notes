@@ -41,3 +41,5 @@ Notes and reading assignments for Code Fellows.
 ### 401 JavaScript
 - [Engineering Topics](https://github.com/dianestephani/reading-notes/blob/master/401JS.01.md)
 - [Class 01](https://github.com/dianestephani/reading-notes/blob/master/401JS.01.md)
+- [Class 02](https://github.com/dianestephani/reading-notes/blob/master/401JS.02.md)
+- Class 03
