@@ -43,3 +43,4 @@ Notes and reading assignments for Code Fellows.
 - [Class 01](https://github.com/dianestephani/reading-notes/blob/master/401JS.01.md)
 - [Class 02](https://github.com/dianestephani/reading-notes/blob/master/401JS.02.md)
 - [Class 03](https://github.com/dianestephani/reading-notes/blob/master/401JS.03.md)
+- [Linked Lists](https://github.com/dianestephani/reading-notes/blob/master/401JS.LL.md)
