@@ -46,3 +46,4 @@ Notes and reading assignments for Code Fellows.
 - [Linked Lists](https://github.com/dianestephani/reading-notes/blob/master/401JS.LL.md)
 - [Class 04](https://github.com/dianestephani/reading-notes/blob/master/401JS.04.md)
 - [Express](https://github.com/dianestephani/reading-notes/blob/master/401JS.07.md)
+- [Express Routing & Connected API](https://github.com/dianestephani/reading-notes/blob/master/401JS.08.md)
