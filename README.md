@@ -50,3 +50,4 @@ Notes and reading assignments for Code Fellows.
 - [API Server](https://github.com/dianestephani/reading-notes/blob/master/401JS.09.md)
 - [Authentication](https://github.com/dianestephani/reading-notes/blob/master/401JS.11.md)
 - [OAuth](https://github.com/dianestephani/reading-notes/blob/master/401JS.12.md)
+- [Bearer Authorization](https://github.com/dianestephani/reading-notes/blob/master/401JS.13.md)
