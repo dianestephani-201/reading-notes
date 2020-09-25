@@ -52,3 +52,4 @@ Notes and reading assignments for Code Fellows.
 - [OAuth](https://github.com/dianestephani/reading-notes/blob/master/401JS.12.md)
 - [Bearer Authorization](https://github.com/dianestephani/reading-notes/blob/master/401JS.13.md)
 - [Access Control](https://github.com/dianestephani/reading-notes/blob/master/401JS.14.md)
+- [Event Driven Applications](https://github.com/dianestephani/reading-notes/blob/master/401JS.16.md)
