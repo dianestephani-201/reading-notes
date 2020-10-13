@@ -53,3 +53,4 @@ Notes and reading assignments for Code Fellows.
 - [Bearer Authorization](https://github.com/dianestephani/reading-notes/blob/master/401JS.13.md)
 - [Access Control](https://github.com/dianestephani/reading-notes/blob/master/401JS.14.md)
 - [Event Driven Applications](https://github.com/dianestephani/reading-notes/blob/master/401JS.16.md)
+- [TCP Server](https://github.com/dianestephani/reading-notes/blob/master/401JS.17.md)
