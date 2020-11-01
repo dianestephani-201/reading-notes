@@ -54,3 +54,4 @@ Notes and reading assignments for Code Fellows.
 - [Access Control](https://github.com/dianestephani/reading-notes/blob/master/401JS.14.md)
 - [Event Driven Applications](https://github.com/dianestephani/reading-notes/blob/master/401JS.16.md)
 - [TCP Server](https://github.com/dianestephani/reading-notes/blob/master/401JS.17.md)
+- [Component Based UI](https://github.com/dianestephani/reading-notes/blob/master/401JS.26.md)
