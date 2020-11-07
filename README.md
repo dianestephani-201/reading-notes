@@ -56,3 +56,4 @@ Notes and reading assignments for Code Fellows.
 - [TCP Server](https://github.com/dianestephani/reading-notes/blob/master/401JS.17.md)
 - [Component Based UI](https://github.com/dianestephani/reading-notes/blob/master/401JS.26.md)
 - [Props and State](https://github.com/dianestephani/reading-notes/blob/master/401JS.27.md)
+- [Component Composition](https://github.com/dianestephani/reading-notes/blob/master/401JS.28.md)
