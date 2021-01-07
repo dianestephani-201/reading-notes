@@ -61,4 +61,5 @@ Notes and reading assignments for Code Fellows.
 - [Message Queues](https://github.com/dianestephani/reading-notes/blob/master/401JS.19.md)
 - [Hash Maps](https://github.com/dianestephani/reading-notes/blob/master/401JS.hash.md)
 - [Routing]()
+- [JavaScript Frameworks](https://github.com/dianestephani/reading-notes/blob/master/401JS.43.md)
 
