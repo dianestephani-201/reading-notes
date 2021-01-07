@@ -59,4 +59,6 @@ Notes and reading assignments for Code Fellows.
 - [Component Composition](https://github.com/dianestephani/reading-notes/blob/master/401JS.28.md)
 - [Socket.io](https://github.com/dianestephani/reading-notes/blob/master/401JS.18.md)
 - [Message Queues](https://github.com/dianestephani/reading-notes/blob/master/401JS.19.md)
+- [Hash Maps](https://github.com/dianestephani/reading-notes/blob/master/401JS.hash.md)
+- [Routing]()
 
