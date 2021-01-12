@@ -64,3 +64,4 @@ Notes and reading assignments for Code Fellows.
 - [JavaScript Frameworks](https://github.com/dianestephani/reading-notes/blob/master/401JS.43.md)
 - [React Native](https://github.com/dianestephani/reading-notes/blob/master/401JS.41.md)
 - [Redux](https://github.com/dianestephani/reading-notes/blob/master/401JS.39.md)
+- [Redux Async Actions](https://github.com/dianestephani/reading-notes/blob/master/401JS.38.md)
