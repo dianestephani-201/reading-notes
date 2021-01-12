@@ -63,4 +63,4 @@ Notes and reading assignments for Code Fellows.
 - [Routing]()
 - [JavaScript Frameworks](https://github.com/dianestephani/reading-notes/blob/master/401JS.43.md)
 - [React Native](https://github.com/dianestephani/reading-notes/blob/master/401JS.41.md)
-
+- [Redux]()
